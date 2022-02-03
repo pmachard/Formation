@@ -1,0 +1,24 @@
+-- ----------------------------------------------------------------------------
+La géométrie différentielle,
+La géométrie algébrique,
+La géométrie complexe,
+La géométrie non commutative,
+La géométrie non euclidienne,
+La géométrie arithmétique,
+La géométrie symplectique et la géométrie de contact,
+La géométrie riemannienne.
+
+-- ----------------------------------------------------------------------------
+
+https://habr.com/en/post/486496/
+https://docs.microsoft.com/fr-fr/archive/msdn-magazine/2015/october/csharp-a-split-and-merge-expression-parser-in-csharp
+
+https://leptinerd.wordpress.com/2016/08/07/les-coordonnees-homogenes/comment-page-1/
+
+-- ----------------------------------------------------------------------------
+
+double f = 0;
+
+-- ----------------------------------------------------------------------------
+-- ----------------------------------------------------------------------------
+-- ----------------------------------------------------------------------------
