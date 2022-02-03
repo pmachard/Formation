@@ -1,0 +1,10 @@
+C:\Users\Pascal\SynologyDrive\Repos\Tdd\VirtualMarket_V1\libMarket\bin\Debug\netcoreapp3.1\libMarket.deps.json
+C:\Users\Pascal\SynologyDrive\Repos\Tdd\VirtualMarket_V1\libMarket\bin\Debug\netcoreapp3.1\libMarket.dll
+C:\Users\Pascal\SynologyDrive\Repos\Tdd\VirtualMarket_V1\libMarket\bin\Debug\netcoreapp3.1\libMarket.pdb
+C:\Users\Pascal\SynologyDrive\Repos\Tdd\VirtualMarket_V1\libMarket\obj\Debug\netcoreapp3.1\libMarket.csproj.AssemblyReference.cache
+C:\Users\Pascal\SynologyDrive\Repos\Tdd\VirtualMarket_V1\libMarket\obj\Debug\netcoreapp3.1\libMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pascal\SynologyDrive\Repos\Tdd\VirtualMarket_V1\libMarket\obj\Debug\netcoreapp3.1\libMarket.AssemblyInfoInputs.cache
+C:\Users\Pascal\SynologyDrive\Repos\Tdd\VirtualMarket_V1\libMarket\obj\Debug\netcoreapp3.1\libMarket.AssemblyInfo.cs
+C:\Users\Pascal\SynologyDrive\Repos\Tdd\VirtualMarket_V1\libMarket\obj\Debug\netcoreapp3.1\libMarket.csproj.CoreCompileInputs.cache
+C:\Users\Pascal\SynologyDrive\Repos\Tdd\VirtualMarket_V1\libMarket\obj\Debug\netcoreapp3.1\libMarket.dll
+C:\Users\Pascal\SynologyDrive\Repos\Tdd\VirtualMarket_V1\libMarket\obj\Debug\netcoreapp3.1\libMarket.pdb
