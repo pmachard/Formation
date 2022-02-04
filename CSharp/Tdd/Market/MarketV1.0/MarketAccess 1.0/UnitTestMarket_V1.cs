@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace Market.Access.UnitTest
 {
-    public class Tests
+    public class UnitTestMarket_V1
     {
         [SetUp]
         public void Setup()

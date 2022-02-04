@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketAccess V2.0", "MarketAccess V2.0\MarketAccess V2.0.csproj", "{CF815620-560C-4E79-9481-71432DE0AFF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibMarketAcces V2.0", "LibMarketAcces V2.0\LibMarketAcces V2.0.csproj", "{3388C50F-D1A6-4943-846D-663C0E473045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibMarketAcces V2.0", "LibMarketAcces V2.0\LibMarketAcces V2.0.csproj", "{3388C50F-D1A6-4943-846D-663C0E473045}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketAccess V1.0", "..\MarketV1.0\MarketAccess 1.0\MarketAccess V1.0.csproj", "{B5E10D02-4052-4264-B0DE-BC025E5AAE35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3388C50F-D1A6-4943-846D-663C0E473045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3388C50F-D1A6-4943-846D-663C0E473045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3388C50F-D1A6-4943-846D-663C0E473045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E10D02-4052-4264-B0DE-BC025E5AAE35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E10D02-4052-4264-B0DE-BC025E5AAE35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E10D02-4052-4264-B0DE-BC025E5AAE35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E10D02-4052-4264-B0DE-BC025E5AAE35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
